@@ -158,10 +158,10 @@ RectTransform:
   m_Father: {fileID: 777145801}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -779.7, y: 250}
-  m_SizeDelta: {x: 100, y: -500}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 53.299988, y: -64}
+  m_SizeDelta: {x: 100, y: 128}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &111707080
 MonoBehaviour:
@@ -180,7 +180,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
+        - m_Target: {fileID: 1072922341}
           m_TargetAssemblyTypeName: TrigerPanelPlayer, Assembly-CSharp
           m_MethodName: ButtonClick
           m_Mode: 1
@@ -388,10 +388,10 @@ RectTransform:
   m_Father: {fileID: 777145801}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -2.4285774, y: -165.53796}
-  m_SizeDelta: {x: 284.8951, y: -517.0672}
+  m_SizeDelta: {x: 284.8951, y: 110.9328}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &255124929
 MonoBehaviour:
@@ -410,7 +410,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
+        - m_Target: {fileID: 1072922341}
           m_TargetAssemblyTypeName: TrigerPanelPlayer, Assembly-CSharp
           m_MethodName: ButtonClick
           m_Mode: 1
@@ -1182,10 +1182,10 @@ RectTransform:
   m_Father: {fileID: 1553858394}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -779.7, y: 250}
-  m_SizeDelta: {x: 100, y: -500}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 53.299988, y: -64}
+  m_SizeDelta: {x: 100, y: 128}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1107348080
 MonoBehaviour:
@@ -1286,7 +1286,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
+        - m_Target: {fileID: 1072922341}
           m_TargetAssemblyTypeName: TrigerPanelPlayer, Assembly-CSharp
           m_MethodName: ButtonClick
           m_Mode: 1
@@ -10568,10 +10568,10 @@ RectTransform:
   m_Father: {fileID: 1553858394}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 314.01697, y: -52.200012}
-  m_SizeDelta: {x: 160, y: -430}
+  m_AnchoredPosition: {x: 314.01697, y: -366.2}
+  m_SizeDelta: {x: 160, y: 198}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2028834557
 MonoBehaviour:

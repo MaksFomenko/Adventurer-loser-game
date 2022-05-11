@@ -8,6 +8,7 @@ public class Test : MonoBehaviour
 {
     public void NexTLevel(int _sceneNumber)
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(_sceneNumber);
     }
 }
